@@ -6,4 +6,4 @@ It also embedded the stratified sampling feature, one of the variance reduction 
 In the notebook and the project report, I compared two simulation methods and analyzed the stratified sampling method's convergence advantage.  
 At the end of the notebook, I used the pricing function to price five actual options traded on the market and compared simulated prices with real traded prices.  
 
-![alt text](https://www.markdownguide.org/assets/images/tux.png)
+![alt text](images/simulated stock path.jpg)
