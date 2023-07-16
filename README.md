@@ -6,4 +6,4 @@ It also embedded the stratified sampling feature, one of the variance reduction 
 In the notebook and the project report, I compared two simulation methods and analyzed the stratified sampling method's convergence advantage.  
 At the end of the notebook, I used the pricing function to price five actual options traded on the market and compared simulated prices with real traded prices.  
 
-![alt text](images/simulated stock path.jpg)
+![alt text](https://github.com/ZedongDaniel/Option-Pricing-with-LSMC-Method/blob/a6cbc36be2f5129ba287b8e379d65530f52be950/images/simulated%20stock%20path.jpg)
